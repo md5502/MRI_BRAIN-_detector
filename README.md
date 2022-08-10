@@ -37,7 +37,10 @@ Unfortunately, the data set description doesn't hold any information where this 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
 Train and Validation Accuracy Plots:
-![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/acc.png)
-Train and Validation Loss Plots \n:
-![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/losses.png)
-
+>
+> ![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/acc.png)
+> 
+Train and Validation Loss Plots:
+>
+> ![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/losses.png)
+>
