@@ -36,4 +36,8 @@ Unfortunately, the data set description doesn't hold any information where this 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Hirnmetastase_MRT-T1_KM.jpg)
+Train and Validation Accuracy Plots:
+![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/acc.png)
+Train and Validation Loss Plots \n:
+![plot](https://raw.githubusercontent.com/md5502/MRI_BRAIN-_detector/main/losses.png)
+
