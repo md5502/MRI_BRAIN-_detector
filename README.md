@@ -1,4 +1,4 @@
-## Brain Tumor Detection with Mobil Model
+## Brain Tumor Detection
 
 # <a id='intro'>1. Project Overview and Objectives</a>
 
