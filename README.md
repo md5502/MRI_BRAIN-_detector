@@ -1,4 +1,4 @@
-**<center><font size=5>Brain Tumor Detection with Mobil Model</font></center>**
+## Brain Tumor Detection with Mobil Model
 
 # <a id='intro'>1. Project Overview and Objectives</a>
 
